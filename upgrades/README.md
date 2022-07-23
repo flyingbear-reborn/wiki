@@ -120,7 +120,7 @@
 |  Описание | Совместимость  |  Автор | Ссылка на источник   |
 | ------------ | ------------ | ------------ | ------------ |
 | Печатные концевики  | V0-V1 | Сергей Фомин |  [tg](https://t.me/Reborn_3D/22187) |
-| Держатель катушки филамента  | V0-V1 | Serg Panin |  [thingiverse](https://www.thingiverse.com/thing:4773486) |
+| Держатель катушки филамента  | V0-V1 | Serg Panin |  [thingiverse](https://www.thingiverse.com/thing:5162471) |
 | Держатель катушки филамента  | V0-V1 | Aleksey Bosenko |  [thingiverse](https://www.thingiverse.com/thing:5024271) |
 | Держатель катушки филамента  | V0-V1 | Pavel Mif |  [tg](https://t.me/Reborn_3D/114806) |
 | Держатель камеры  | V0-V1 | Max Grakov |  [tg](https://t.me/Reborn_3D/26312) |
