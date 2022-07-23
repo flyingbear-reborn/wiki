@@ -27,6 +27,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | Переход на рельсы по X  | V1 | Alexey |  [thingiverse](https://www.thingiverse.com/thing:5145741) |
 | Переход на рельсы по X  | V1 | Timofey Titovets |  [thingiverse](https://www.thingiverse.com/thing:5207372) |
+| Переход на рельсы по X  | V1 | Semyon K. |  [tg 1](https://t.me/Reborn_3D/153647) [tg 2](https://t.me/Reborn_3D/153660)|
 | Усилитель задних роликов ремней  | V1 | AndyBig |  [tg](https://t.me/Reborn_3D/34885) |
 | Усилитель задних роликов ремней  | V1 | Sugar Arrafel |  [tg](https://t.me/Reborn_3D/30391) |
 | Усилитель задних роликов ремней  | V1 | Алексей |  [tg](https://t.me/Reborn_3D/69194) |
@@ -34,6 +35,7 @@
 | Усилитель задних роликов ремней  | V1 |SOFRONOV-SVS  |  [thingiverse](https://www.thingiverse.com/thing:5246790) |
 | Консольный вынос двигателей  | V1 | Timofey Titovets |  [thingiverse](https://www.thingiverse.com/thing:5204387) |
 | Установка ШВП SFU1204 по Z  | V0-V1 | Вячеслав |  [tg](https://t.me/Reborn_3D/25154) |
+| Консольный вынос двигателей  | V1 | Semyon K. |  [tg](https://t.me/Reborn_3D/149063) |
 
 ##### 3.2 Обдув
 Изменение обдува модели.
@@ -44,6 +46,7 @@
 | Обдув Чебурашка, облегченный  | V0-V1 | ath2 |  [thingiverse](https://www.thingiverse.com/thing:4845272) |
 | Обдув Чебурашка, сверхоблегченный  | V0-V1 | AdminguideRu |  [thingiverse](https://www.thingiverse.com/thing:5177834) |
 | Обдув под стоковую турбину  | V0-V1 | voltNik |  [thingiverse](https://www.thingiverse.com/thing:4946489) |
+| Обдув штаны под стоковую турбину  | V0-V1 | Wudi |  [tg 1](https://t.me/Reborn_3D/161545)  [tg 2](https://t.me/Reborn_3D/161613)|
 
 ##### 3.3 Альтернативные печатные головы
 Проекты в сборе.
@@ -59,6 +62,7 @@
 | BMG Aero от Mellow  | V0-V1 | Алексей Застрожнов |  [tg](https://t.me/Reborn_3D/76942) |
 | Matrix Light  + BLT   | V0-V1 | ivan |  [tg](https://t.me/Reborn_3D/94301) |
 | Orbiter 1.5 + Volcano  | V0-V1 | Flox Urys |  [tg](https://t.me/Reborn_3D/119813) |
+| MaCho  | V0-V1 | Edward Moorodian |  [tg](https://t.me/Reborn_3D/143392) |
 
 ##### 3.4 Дополнения к головам
 Некоторые полезные вещи, которые не тянут на полноценное решение головы.
@@ -73,6 +77,7 @@
 | Охлаждение радиатора под 40мм  | V0-V1 | lethala |  [thingiverse](https://www.thingiverse.com/thing:435884) |
 | Держатель косы кабеля головы  | V0-V1 | Roma |  [tg](https://t.me/Reborn_3D/97363) |
 | Печатная каретка Y  | V0-V1 | Timofey Titovets |  [thingiverse](https://www.thingiverse.com/thing:5222633) |
+| Печатный кабелеканал головы  | V0-V1 | Михаил Татаринцев |  [tg](https://t.me/Reborn_3D/151064) |
 
 ##### 3.5 Кузов
 Доработки рамы, корпуса и купола
@@ -82,6 +87,9 @@
 | Термокупол Сергея  | V0-V1 | Сергей Фомин |  [thingiverse](https://www.thingiverse.com/thing:4880036) |
 | Термокупол  | V0-V1 | Ок Alex |  [tg](https://t.me/Reborn_3D/90784) |
 | Термокупол  | V0-V1 | ivan |  [tg](https://t.me/Reborn_3D/94273) |
+| Термокупол  | V0-V1 | Илья Лившун |  [tg](https://t.me/Reborn_3D/132297) |
+| Термокупол  | V0-V1 | Иван (remix ivan) |  [tg](https://t.me/Reborn_3D/162499) |
+| Оребрение и металлическая обшивка  | V0-V1 | TNW |  [tg](https://t.me/Reborn_3D/152154) |
 
 ##### 3.6 Стол
 Доработки рабочего стола.
@@ -93,6 +101,8 @@
 | Толстое стекло + PEI  | V0-V1 | Вячеслав |  [tg](https://t.me/Reborn_3D/19206) |
 | Усиление рамы стола  | V0-V1 | Михаил Кайдалов |  [tg 1](https://t.me/Reborn_3D/67253)  [tg 2](https://t.me/Reborn_3D/67356) [tg 2](https://t.me/Reborn_3D/67504) |
 | Зеркальная установка подшипников  | V0-V1 | Алексей Застрожнов |  [tg](https://t.me/Reborn_3D/65945) |
+| Двухстороннее стекло  | V0-V1 | Semyon K. |  [tg 1](https://t.me/Reborn_3D/139146)  [tg 2](https://t.me/Reborn_3D/140693) |
+| Упор центра стола  | V0-V1 | dron71 |  [tg](https://t.me/Reborn_3D/148837) |
 
 ##### 3.7 Электрика
 Доработки по части электрики
@@ -102,6 +112,7 @@
 | Установка модуля PWC  | V0-V1 | BR |  [tg](https://t.me/Reborn_3D/15682) |
 | Решение подсветки  | V0-V1 | BR |  [tg](https://t.me/Reborn_3D/27004) |
 | Решение подсветки  | V0-V1 | cheathit |  [thingiverse](https://www.thingiverse.com/thing:4855861) |
+| Решение подсветки  | V0-V1 | Andrey Gulyaev |  [tg](https://t.me/Reborn_3D/141327) |
 
 ##### 3.7 Утилиты
 Разная полезная мелочь, не подходящая под категории выше
@@ -114,6 +125,10 @@
 | Держатель катушки филамента  | V0-V1 | Pavel Mif |  [tg](https://t.me/Reborn_3D/114806) |
 | Держатель камеры  | V0-V1 | Max Grakov |  [tg](https://t.me/Reborn_3D/26312) |
 | Держатель трубки филамента  | V0-V1 | Timofey Titovets |  [thingiverse](https://www.thingiverse.com/thing:5165235) |
+| Заглушка дисплея  | V0-V1 | Andrey Gulyaev |  [tg](https://t.me/Reborn_3D/141320) |
+| Верхний держатель катушки филамента  | V0-V1 | dron71 |  [ext](https://3dtoday.ru/3d-models/detali-dlya-3d-printerov/raznoe/derzatel-filamenta-dlya-3-d-printera-reborn-flyingbear) |
+| Верхний держатель катушки филамента  | V0-V1 | Д Ч |  [tg 1](https://t.me/Reborn_3D/138889) [tg 2](https://t.me/Reborn_3D/138987) |
+| Адаптер дисплея 12864  | V0-V1 | Le Stinger |  [tg](https://t.me/Reborn_3D/158744) |
 
 ##### 4.7 Чертежи
 
