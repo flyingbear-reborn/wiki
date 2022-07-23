@@ -31,6 +31,7 @@
 | Усилитель задних роликов ремней  | V1 | Sugar Arrafel |  [tg](https://t.me/Reborn_3D/30391) |
 | Усилитель задних роликов ремней  | V1 | Алексей |  [tg](https://t.me/Reborn_3D/69194) |
 | Усилитель задних роликов ремней  | V1 | John Titor |  [tg](https://t.me/Reborn_3D/60350) |
+| Усилитель задних роликов ремней  | V1 |SOFRONOV-SVS  |  [thingiverse](https://www.thingiverse.com/thing:5246790) |
 | Консольный вынос двигателей  | V1 | Timofey Titovets |  [thingiverse](https://www.thingiverse.com/thing:5204387) |
 | Установка ШВП SFU1204 по Z  | V0-V1 | Вячеслав |  [tg](https://t.me/Reborn_3D/25154) |
 
@@ -56,6 +57,8 @@
 | BeMeGe + e3dv6  | V0-V1 | Roman |  [thingiverse](https://www.thingiverse.com/thing:5198016) |
 | Orbiter 1.5 + e3dv6/v5  | V0-V1 | Poblopuablo |  [thingiverse](https://www.thingiverse.com/thing:5030564) |
 | BMG Aero от Mellow  | V0-V1 | Алексей Застрожнов |  [tg](https://t.me/Reborn_3D/76942) |
+| Matrix Light  + BLT   | V0-V1 | ivan |  [tg](https://t.me/Reborn_3D/94301) |
+| Orbiter 1.5 + Volcano  | V0-V1 | Flox Urys |  [tg](https://t.me/Reborn_3D/119813) |
 
 ##### 3.4 Дополнения к головам
 Некоторые полезные вещи, которые не тянут на полноценное решение головы.
@@ -67,6 +70,9 @@
 | Направляющая филамента в BMG  | V0-V1 | AndyBig |  [thingiverse](https://www.thingiverse.com/thing:5181895) |
 | Крепление BLT под сток  | V0-V1 | Nikolay |  [tg](https://t.me/Reborn_3D/68378) |
 | Крепление BLT под сток  | V0-V1 | Igor |  [tg](https://t.me/Reborn_3D/68370) |
+| Охлаждение радиатора под 40мм  | V0-V1 | lethala |  [thingiverse](https://www.thingiverse.com/thing:435884) |
+| Держатель косы кабеля головы  | V0-V1 | Roma |  [tg](https://t.me/Reborn_3D/97363) |
+| Печатная каретка Y  | V0-V1 | Timofey Titovets |  [thingiverse](https://www.thingiverse.com/thing:5222633) |
 
 ##### 3.5 Кузов
 Доработки рамы, корпуса и купола
@@ -74,6 +80,8 @@
 |  Описание | Совместимость  |  Автор | Ссылка на источник   |
 | ------------ | ------------ | ------------ | ------------ |
 | Термокупол Сергея  | V0-V1 | Сергей Фомин |  [thingiverse](https://www.thingiverse.com/thing:4880036) |
+| Термокупол  | V0-V1 | Ок Alex |  [tg](https://t.me/Reborn_3D/90784) |
+| Термокупол  | V0-V1 | ivan |  [tg](https://t.me/Reborn_3D/94273) |
 
 ##### 3.6 Стол
 Доработки рабочего стола.
@@ -103,6 +111,7 @@
 | Печатные концевики  | V0-V1 | Сергей Фомин |  [tg](https://t.me/Reborn_3D/22187) |
 | Держатель катушки филамента  | V0-V1 | Serg Panin |  [thingiverse](https://www.thingiverse.com/thing:4773486) |
 | Держатель катушки филамента  | V0-V1 | Aleksey Bosenko |  [thingiverse](https://www.thingiverse.com/thing:5024271) |
+| Держатель катушки филамента  | V0-V1 | Pavel Mif |  [tg](https://t.me/Reborn_3D/114806) |
 | Держатель камеры  | V0-V1 | Max Grakov |  [tg](https://t.me/Reborn_3D/26312) |
 | Держатель трубки филамента  | V0-V1 | Timofey Titovets |  [thingiverse](https://www.thingiverse.com/thing:5165235) |
 
@@ -115,3 +124,4 @@
 - [Стоковое стекло](blueprints/glass_v1rc.dwg) ([Источник](https://t.me/Reborn_3D/56946))
 - [Стоковый стол](blueprints/hotbed.jpeg) ([Источник](https://t.me/Reborn_3D/87033))
 - [3d модель принтера](blueprints/FLYING_BEAR_REBORN_20-01.step) ([Источник](https://t.me/Reborn_3D/87243))
+- Резинки под ножки ([Источник](https://t.me/Reborn_3D/97817))
