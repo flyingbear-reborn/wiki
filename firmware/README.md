@@ -60,6 +60,7 @@
 - пример стартового кода от [Serg Panin](https://t.me/Reborn_3D/11026)
 - примеры профилей печати [pla/petg](https://t.me/Reborn_3D/24719)/[flex](https://t.me/Reborn_3D/117086)/[Esun ABS+](https://t.me/Reborn_3D/136246)/[FDPlas TPU](https://t.me/Reborn_3D/138546)
 - набором полезных советов от [Timofey Titovets](https://t.me/Reborn_3D/100187)
+- рекоммендациями по настройке поддержек от [Roman](https://t.me/Reborn_3D/163785)
 
 ###### 6.2 PrusaSlicer
 Можно ознакомиться c:
