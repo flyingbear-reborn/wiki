@@ -16,7 +16,7 @@
 ![](images/robin_nano_s13.jpg)
 
 Ознакомиться со схемами плат можно в [репозитории MKS](https://github.com/makerbase-mks/MKS-Robin-Nano-V1.X/tree/master/hardware).
-Стоковые прошивки можно получить [тут](fb_gdisk_mirror/) ([Источник](https://drive.google.com/drive/folders/1io_umO7EgzTLTE5pZwcePNe2q0zt-har)).
+Стоковые прошивки можно получить [тут](fb_default_fw/) ([Источник](https://drive.google.com/drive/folders/1io_umO7EgzTLTE5pZwcePNe2q0zt-har)).
 Перечень транзисторов для ремонта [tg](https://t.me/Reborn_3D/143279) 
 
 ##### 2. Кастомные прошивки.
