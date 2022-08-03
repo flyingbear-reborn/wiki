@@ -17,7 +17,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | Переход на 10мм ремни  | V0 | Serg Panin |  [thingiverse](https://www.thingiverse.com/thing:5150217) |
 | Переход на 10мм ремни + VORON AB | V0  | Roman | [github](https://github.com/anex13/FBRebornAB) + [мод](https://t.me/Reborn_3D/67464) |
-| Переход на 10мм ремни | V1 | Михаил Кайдалов  |  [tg](https://t.me/Reborn_3D/159434) |
+| Переход на 10мм ремни | V1 | Михаил Кайдалов  |  [tg](https://t.me/Reborn_3D/168233) |
 | Комплекс решений RatRig/VZBot | V1 | Timofey Titovets  |  [thingiverse 1](https://www.thingiverse.com/thing:5255547) [thingiverse 2](https://www.thingiverse.com/thing:5235304) |
 
 ##### 3.1 Кинематика
