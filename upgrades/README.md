@@ -69,8 +69,8 @@
 
 |  Описание | Совместимость  |  Автор | Ссылка на источник   |
 | ------------ | ------------ | ------------ | ------------ |
-| Адаптеры E3Dv6 цельный  | V0-V1 | Serg Panin |  [thingiverse](https://www.thingiverse.com/thing:4743373) |
-| Адаптеры E3Dv6 разрезной  | V0-V1 | Максим Исаенко |  [tg](https://t.me/Reborn_3D/21680) |
+| Адаптер для E3Dv6(резьбовой)  | V0-V1 | Serg Panin |  [thingiverse](https://www.thingiverse.com/thing:4743373) |
+| Адаптер для E3Dv6(стандартный)   | V0-V1 | Максим Исаенко |  [tg](https://t.me/Reborn_3D/21680) |
 | Направляющая филамента в BMG  | V0-V1 | AndyBig |  [thingiverse](https://www.thingiverse.com/thing:5181895) |
 | Крепление BLT под сток  | V0-V1 | Nikolay |  [tg](https://t.me/Reborn_3D/68378) |
 | Крепление BLT под сток  | V0-V1 | Igor |  [tg](https://t.me/Reborn_3D/68370) |
