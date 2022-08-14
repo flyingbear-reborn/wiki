@@ -63,6 +63,7 @@
 | Matrix Light  + BLT   | V0-V1 | ivan |  [tg](https://t.me/Reborn_3D/94301) |
 | Orbiter 1.5 + Volcano  | V0-V1 | Flox Urys |  [tg](https://t.me/Reborn_3D/119813) |
 | MaCho  | V0-V1 | Edward Moorodian |  [tg](https://t.me/Reborn_3D/143392) |
+| Vostok-style  | V0-V1 | Ruslan P |  [tg](https://t.me/Reborn_3D/168953) |
 
 ##### 3.4 Дополнения к головам
 Некоторые полезные вещи, которые не тянут на полноценное решение головы.
